@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="char.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Scrapeface Down0000" x="40" y="40" width="934" height="538" frameX="-4" frameY="-5" frameWidth="947" frameHeight="543"/>
+	<SubTexture name="Scrapeface Down0001" x="994" y="40" width="935" height="537" frameX="-5" frameY="-6" frameWidth="947" frameHeight="543"/>
+	<SubTexture name="Scrapeface Down0002" x="1949" y="40" width="943" height="540" frameX="-4" frameY="-3" frameWidth="947" frameHeight="543"/>
+	<SubTexture name="Scrapeface Down0003" x="2912" y="40" width="933" height="543" frameX="-7" frameY="0" frameWidth="947" frameHeight="543"/>
+	<SubTexture name="Scrapeface Down0004" x="3865" y="40" width="939" height="543" frameX="-4" frameY="0" frameWidth="947" frameHeight="543"/>
+	<SubTexture name="Scrapeface Down0005" x="4824" y="40" width="939" height="538" frameX="0" frameY="-5" frameWidth="947" frameHeight="543"/>
+	<SubTexture name="Scrapeface Down0006" x="5783" y="40" width="930" height="537" frameX="-8" frameY="-6" frameWidth="947" frameHeight="543"/>
+	<SubTexture name="Scrapeface Down0007" x="6733" y="40" width="936" height="540" frameX="-4" frameY="-3" frameWidth="947" frameHeight="543"/>
+	<SubTexture name="Scrapeface Idle0000" x="40" y="603" width="750" height="583" frameX="-6" frameY="-4" frameWidth="777" frameHeight="587"/>
+	<SubTexture name="Scrapeface Idle0001" x="810" y="603" width="743" height="581" frameX="-8" frameY="-6" frameWidth="777" frameHeight="587"/>
+	<SubTexture name="Scrapeface Idle0002" x="1573" y="603" width="777" height="585" frameX="0" frameY="-2" frameWidth="777" frameHeight="587"/>
+	<SubTexture name="Scrapeface Idle0003" x="2370" y="603" width="751" height="587" frameX="-10" frameY="0" frameWidth="777" frameHeight="587"/>
+	<SubTexture name="Scrapeface Idle0004" x="3141" y="603" width="736" height="587" frameX="-18" frameY="0" frameWidth="777" frameHeight="587"/>
+	<SubTexture name="Scrapeface Idle0005" x="3897" y="603" width="748" height="583" frameX="-6" frameY="-4" frameWidth="777" frameHeight="587"/>
+	<SubTexture name="Scrapeface Idle0006" x="4665" y="603" width="748" height="581" frameX="-8" frameY="-6" frameWidth="777" frameHeight="587"/>
+	<SubTexture name="Scrapeface Idle0007" x="5433" y="603" width="751" height="585" frameX="0" frameY="-2" frameWidth="777" frameHeight="587"/>
+	<SubTexture name="Scrapeface Idle0008" x="6204" y="603" width="767" height="587" frameX="-10" frameY="0" frameWidth="777" frameHeight="587"/>
+	<SubTexture name="Scrapeface Idle0009" x="6991" y="603" width="743" height="587" frameX="-18" frameY="0" frameWidth="777" frameHeight="587"/>
+	<SubTexture name="Scrapeface Idle0010" x="40" y="1210" width="748" height="583" frameX="-6" frameY="-4" frameWidth="777" frameHeight="587"/>
+	<SubTexture name="Scrapeface Idle0011" x="808" y="1210" width="746" height="581" frameX="-8" frameY="-6" frameWidth="777" frameHeight="587"/>
+	<SubTexture name="Scrapeface Idle0012" x="1574" y="1210" width="756" height="585" frameX="0" frameY="-2" frameWidth="777" frameHeight="587"/>
+	<SubTexture name="Scrapeface Idle0013" x="2350" y="1210" width="741" height="587" frameX="-10" frameY="0" frameWidth="777" frameHeight="587"/>
+	<SubTexture name="Scrapeface Idle0014" x="3111" y="1210" width="759" height="587" frameX="-18" frameY="0" frameWidth="777" frameHeight="587"/>
+	<SubTexture name="Scrapeface Left0000" x="3890" y="1210" width="761" height="604" frameX="-3" frameY="-5" frameWidth="788" frameHeight="609"/>
+	<SubTexture name="Scrapeface Left0001" x="4671" y="1210" width="757" height="603" frameX="-4" frameY="-6" frameWidth="788" frameHeight="609"/>
+	<SubTexture name="Scrapeface Left0002" x="5448" y="1210" width="788" height="605" frameX="0" frameY="-4" frameWidth="788" frameHeight="609"/>
+	<SubTexture name="Scrapeface Left0003" x="6256" y="1210" width="757" height="608" frameX="-11" frameY="-1" frameWidth="788" frameHeight="609"/>
+	<SubTexture name="Scrapeface Left0004" x="7033" y="1210" width="762" height="609" frameX="-2" frameY="0" frameWidth="788" frameHeight="609"/>
+	<SubTexture name="Scrapeface Left0005" x="40" y="1839" width="760" height="604" frameX="-3" frameY="-5" frameWidth="788" frameHeight="609"/>
+	<SubTexture name="Scrapeface Left0006" x="820" y="1839" width="760" height="603" frameX="-4" frameY="-6" frameWidth="788" frameHeight="609"/>
+	<SubTexture name="Scrapeface Left0007" x="1600" y="1839" width="761" height="605" frameX="0" frameY="-4" frameWidth="788" frameHeight="609"/>
+	<SubTexture name="Scrapeface Right0000" x="2381" y="1839" width="885" height="577" frameX="-13" frameY="-4" frameWidth="922" frameHeight="581"/>
+	<SubTexture name="Scrapeface Right0001" x="3286" y="1839" width="880" height="575" frameX="-14" frameY="-6" frameWidth="922" frameHeight="581"/>
+	<SubTexture name="Scrapeface Right0002" x="4186" y="1839" width="922" height="579" frameX="0" frameY="-2" frameWidth="922" frameHeight="581"/>
+	<SubTexture name="Scrapeface Right0003" x="5128" y="1839" width="889" height="581" frameX="-13" frameY="0" frameWidth="922" frameHeight="581"/>
+	<SubTexture name="Scrapeface Right0004" x="6037" y="1839" width="890" height="581" frameX="-6" frameY="0" frameWidth="922" frameHeight="581"/>
+	<SubTexture name="Scrapeface Right0005" x="6947" y="1839" width="884" height="577" frameX="-13" frameY="-4" frameWidth="922" frameHeight="581"/>
+	<SubTexture name="Scrapeface Right0006" x="40" y="2464" width="884" height="575" frameX="-14" frameY="-6" frameWidth="922" frameHeight="581"/>
+	<SubTexture name="Scrapeface Right0007" x="944" y="2464" width="894" height="579" frameX="0" frameY="-2" frameWidth="922" frameHeight="581"/>
+	<SubTexture name="Scrapeface Up0000" x="1858" y="2464" width="788" height="652" frameX="-11" frameY="-4" frameWidth="822" frameHeight="656"/>
+	<SubTexture name="Scrapeface Up0001" x="2666" y="2464" width="786" height="652" frameX="-11" frameY="-4" frameWidth="822" frameHeight="656"/>
+	<SubTexture name="Scrapeface Up0002" x="3472" y="2464" width="811" height="653" frameX="-11" frameY="-3" frameWidth="822" frameHeight="656"/>
+	<SubTexture name="Scrapeface Up0003" x="4303" y="2464" width="801" height="656" frameX="-2" frameY="0" frameWidth="822" frameHeight="656"/>
+	<SubTexture name="Scrapeface Up0004" x="5124" y="2464" width="801" height="655" frameX="0" frameY="-1" frameWidth="822" frameHeight="656"/>
+	<SubTexture name="Scrapeface Up0005" x="5945" y="2464" width="788" height="652" frameX="-11" frameY="-4" frameWidth="822" frameHeight="656"/>
+	<SubTexture name="Scrapeface Up0006" x="6753" y="2464" width="788" height="652" frameX="-11" frameY="-4" frameWidth="822" frameHeight="656"/>
+	<SubTexture name="Scrapeface Up0007" x="40" y="3140" width="786" height="653" frameX="-11" frameY="-3" frameWidth="822" frameHeight="656"/>
+	<SubTexture name="glitchidle0000" x="846" y="3140" width="681" height="583" frameX="-103" frameY="-4" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0001" x="1547" y="3140" width="726" height="566" frameX="-38" frameY="-18" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0002" x="2293" y="3140" width="777" height="583" frameX="0" frameY="-4" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0003" x="3090" y="3140" width="751" height="581" frameX="-10" frameY="-6" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0004" x="3861" y="3140" width="736" height="585" frameX="-18" frameY="-2" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0005" x="4617" y="3140" width="748" height="587" frameX="-6" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0006" x="5385" y="3140" width="748" height="587" frameX="-8" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0007" x="6153" y="3140" width="751" height="583" frameX="0" frameY="-4" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0008" x="6924" y="3140" width="767" height="581" frameX="-10" frameY="-6" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0009" x="40" y="3813" width="743" height="585" frameX="-18" frameY="-2" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0010" x="803" y="3813" width="748" height="587" frameX="-6" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0011" x="1571" y="3813" width="746" height="587" frameX="-8" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0012" x="2337" y="3813" width="756" height="583" frameX="0" frameY="-4" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0013" x="3113" y="3813" width="741" height="581" frameX="-10" frameY="-6" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0014" x="3874" y="3813" width="759" height="585" frameX="-18" frameY="-2" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0015" x="4653" y="3813" width="755" height="587" frameX="-6" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0016" x="5428" y="3813" width="746" height="587" frameX="-8" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0017" x="6194" y="3813" width="754" height="583" frameX="0" frameY="-4" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0018" x="6968" y="3813" width="746" height="581" frameX="-10" frameY="-6" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0019" x="40" y="4420" width="733" height="585" frameX="-18" frameY="-2" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0020" x="793" y="4420" width="771" height="587" frameX="-6" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0021" x="1584" y="4420" width="753" height="587" frameX="-8" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0022" x="2357" y="4420" width="754" height="583" frameX="0" frameY="-4" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0023" x="3131" y="4420" width="744" height="581" frameX="-10" frameY="-6" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0024" x="3895" y="4420" width="738" height="585" frameX="-18" frameY="-2" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0025" x="4653" y="4420" width="745" height="587" frameX="-6" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0026" x="5418" y="4420" width="769" height="587" frameX="-8" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0027" x="6207" y="4420" width="761" height="583" frameX="0" frameY="-4" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0028" x="6988" y="4420" width="744" height="581" frameX="-10" frameY="-6" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0029" x="40" y="5027" width="736" height="585" frameX="-18" frameY="-2" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0030" x="796" y="5027" width="750" height="587" frameX="-6" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0031" x="1566" y="5027" width="743" height="587" frameX="-8" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0032" x="2329" y="5027" width="777" height="583" frameX="0" frameY="-4" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0033" x="3090" y="3140" width="751" height="581" frameX="-10" frameY="-6" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0034" x="3861" y="3140" width="736" height="585" frameX="-18" frameY="-2" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0035" x="3126" y="5027" width="748" height="587" frameX="-6" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0036" x="3894" y="5027" width="748" height="587" frameX="-8" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0037" x="4662" y="5027" width="751" height="583" frameX="0" frameY="-4" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0038" x="5433" y="5027" width="767" height="581" frameX="-10" frameY="-6" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0039" x="6220" y="5027" width="743" height="585" frameX="-18" frameY="-2" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0040" x="803" y="3813" width="748" height="587" frameX="-6" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0041" x="1571" y="3813" width="746" height="587" frameX="-8" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0042" x="6983" y="5027" width="756" height="583" frameX="0" frameY="-4" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0043" x="40" y="5634" width="741" height="581" frameX="-10" frameY="-6" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0044" x="801" y="5634" width="759" height="585" frameX="-18" frameY="-2" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0045" x="1580" y="5634" width="755" height="587" frameX="-6" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0046" x="2355" y="5634" width="746" height="587" frameX="-8" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0047" x="6194" y="3813" width="754" height="583" frameX="0" frameY="-4" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0048" x="6968" y="3813" width="746" height="581" frameX="-10" frameY="-6" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0049" x="3121" y="5634" width="733" height="585" frameX="-18" frameY="-2" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0050" x="3874" y="5634" width="771" height="587" frameX="-6" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0051" x="4665" y="5634" width="753" height="587" frameX="-8" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0052" x="5438" y="5634" width="754" height="583" frameX="0" frameY="-4" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0053" x="6212" y="5634" width="744" height="581" frameX="-10" frameY="-6" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0054" x="3895" y="4420" width="738" height="585" frameX="-18" frameY="-2" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0055" x="4653" y="4420" width="745" height="587" frameX="-6" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0056" x="6976" y="5634" width="769" height="587" frameX="-8" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0057" x="40" y="6241" width="761" height="583" frameX="0" frameY="-4" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0058" x="821" y="6241" width="744" height="581" frameX="-10" frameY="-6" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0059" x="1585" y="6241" width="736" height="585" frameX="-18" frameY="-2" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0060" x="2341" y="6241" width="750" height="587" frameX="-6" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0061" x="1566" y="5027" width="743" height="587" frameX="-8" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0062" x="2329" y="5027" width="777" height="583" frameX="0" frameY="-4" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0063" x="3111" y="6241" width="751" height="581" frameX="-10" frameY="-6" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0064" x="3882" y="6241" width="736" height="585" frameX="-18" frameY="-2" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0065" x="4638" y="6241" width="748" height="587" frameX="-6" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0066" x="5385" y="3140" width="748" height="587" frameX="-8" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0067" x="5406" y="6241" width="751" height="583" frameX="0" frameY="-4" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0068" x="5433" y="5027" width="767" height="581" frameX="-10" frameY="-6" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0069" x="6220" y="5027" width="743" height="585" frameX="-18" frameY="-2" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0070" x="6177" y="6241" width="748" height="587" frameX="-6" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="glitchidle0071" x="6945" y="6241" width="746" height="587" frameX="-8" frameY="0" frameWidth="784" frameHeight="587"/>
+	<SubTexture name="lookleftidle0000" x="40" y="6848" width="618" height="583" frameX="-6" frameY="-4" frameWidth="635" frameHeight="587"/>
+	<SubTexture name="lookleftidle0001" x="678" y="6848" width="616" height="581" frameX="-9" frameY="-6" frameWidth="635" frameHeight="587"/>
+	<SubTexture name="lookleftidle0002" x="1314" y="6848" width="622" height="585" frameX="0" frameY="-2" frameWidth="635" frameHeight="587"/>
+	<SubTexture name="lookleftidle0003" x="1956" y="6848" width="612" height="587" frameX="-11" frameY="0" frameWidth="635" frameHeight="587"/>
+	<SubTexture name="lookleftidle0004" x="2588" y="6848" width="603" height="587" frameX="-18" frameY="0" frameWidth="635" frameHeight="587"/>
+	<SubTexture name="lookleftidle0005" x="3211" y="6848" width="628" height="583" frameX="-6" frameY="-4" frameWidth="635" frameHeight="587"/>
+	<SubTexture name="lookleftidle0006" x="3859" y="6848" width="626" height="581" frameX="-9" frameY="-6" frameWidth="635" frameHeight="587"/>
+	<SubTexture name="lookleftidle0007" x="4505" y="6848" width="624" height="585" frameX="0" frameY="-2" frameWidth="635" frameHeight="587"/>
+	<SubTexture name="lookleftidle0008" x="5149" y="6848" width="614" height="587" frameX="-11" frameY="0" frameWidth="635" frameHeight="587"/>
+	<SubTexture name="lookleftidle0009" x="5783" y="6848" width="604" height="587" frameX="-18" frameY="0" frameWidth="635" frameHeight="587"/>
+	<SubTexture name="lookleftidle0010" x="6407" y="6848" width="617" height="583" frameX="-6" frameY="-4" frameWidth="635" frameHeight="587"/>
+	<SubTexture name="lookleftidle0011" x="7044" y="6848" width="612" height="581" frameX="-9" frameY="-6" frameWidth="635" frameHeight="587"/>
+	<SubTexture name="lookleftidle0012" x="40" y="7455" width="634" height="585" frameX="0" frameY="-2" frameWidth="635" frameHeight="587"/>
+	<SubTexture name="lookleftidle0013" x="694" y="7455" width="624" height="587" frameX="-11" frameY="0" frameWidth="635" frameHeight="587"/>
+	<SubTexture name="lookleftidle0014" x="1338" y="7455" width="606" height="587" frameX="-18" frameY="0" frameWidth="635" frameHeight="587"/>
+</TextureAtlas>
