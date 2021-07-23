@@ -1050,6 +1050,32 @@ class PlayState extends MusicBeatState
 					schoolIntro(doof);
 				case 'thorns':
 					schoolIntro(doof);
+				case 'madness':
+						FlxG.camera.visible = true;
+						camHUD.visible = false;
+    
+						trace("help");
+						new FlxTimer().start(0.1, function(tmr)
+						{
+							dad.playAnim('lookleftidle');
+							FlxG.camera.zoom = 0.7;
+							new FlxTimer().start(1.2, function(tmr) {
+								FlxG.sound.play(Paths.sound('beep', 'scrapeface'));
+								boyfriend.playAnim('singLEFT');
+							});
+						});
+
+						new FlxTimer().start(1.85, function(tmr) {
+							dad.playAnim('glitchidle');
+							FlxG.camera.shake(0.07, 0.21);
+							boyfriend.playAnim('scared');
+							FlxG.camera.flash(0xFFFC0303, 1);
+							FlxG.camera.flash(0xFFFC0303, 1);
+							FlxG.sound.play(Paths.sound('staticSound', 'scrapeface'));
+							health -= 0.55;
+							camHUD.visible = true;
+							FlxTween.tween(FlxG.camera, {zoom: defaultCamZoom}, 1.0, {ease: FlxEase.quadInOut,onComplete: function(twn) {startCountdown();}});
+						});
 				case 'mistake':
 						trace("wink");
 						FlxG.camera.visible = true;
@@ -1085,6 +1111,32 @@ class PlayState extends MusicBeatState
 			{
 				default:
 					startCountdown();
+				case 'madness':
+						FlxG.camera.visible = true;
+						camHUD.visible = false;
+    
+						trace("help");
+						new FlxTimer().start(0.1, function(tmr)
+						{
+							dad.playAnim('lookleftidle');
+							FlxG.camera.zoom = 0.7;
+							new FlxTimer().start(1.2, function(tmr) {
+								FlxG.sound.play(Paths.sound('beep', 'scrapeface'));
+								boyfriend.playAnim('singLEFT');
+							});
+						});
+
+						new FlxTimer().start(1.85, function(tmr) {
+							dad.playAnim('glitchidle');
+							FlxG.camera.shake(0.07, 0.21);
+							boyfriend.playAnim('scared');
+							FlxG.camera.flash(0xFFFC0303, 1);
+							FlxG.camera.flash(0xFFFC0303, 1);
+							FlxG.sound.play(Paths.sound('staticSound', 'scrapeface'));
+							health -= 0.55;
+							camHUD.visible = true;
+							FlxTween.tween(FlxG.camera, {zoom: defaultCamZoom}, 1.0, {ease: FlxEase.quadInOut,onComplete: function(twn) {startCountdown();}});
+						});
 			}
 		}
 
@@ -3420,6 +3472,29 @@ class PlayState extends MusicBeatState
 	{
 		super.beatHit();
 		
+		if(curSong == 'Madness'){
+        if (curStep > 1023 && curStep < 1280) {
+           Lib.application.window.move(Lib.application.window.x + FlxG.random.int( 3, -3),Lib.application.window.y + FlxG.random.int( 1, -1));
+            camHUD.shake(0.02, 0.02);
+    health -= 0.01;
+    }
+        if (curStep > 1280 && curStep < 1536) {
+           Lib.application.window.move(Lib.application.window.x + FlxG.random.int( 12, -12),Lib.application.window.y + FlxG.random.int( -15, 15));
+            camHUD.shake(0.04, 0.03);
+    health -= 0.02;
+    }
+        if (curStep > 767 && curStep < 1032) {
+    health -= 0.02;
+            camHUD.shake(0.02, 0.03);
+    }
+        if (curStep > 1536 && curStep < 1792) {
+           Lib.application.window.move(Lib.application.window.x + FlxG.random.int( 14, -14),Lib.application.window.y + FlxG.random.int( -7, 7));
+    health -= 0.02;
+            camHUD.shake(0.01, 0.02);
+    FlxG.camera.shake(0.02, 0.08);
+    }
+		}
+
 		if(curSong == 'Mistake'){
 			if (curStep == 383) {
 				FlxG.camera.flash(0xFFFC0303, 1);
